@@ -1,6 +1,4 @@
-# Library
-
-## Project titel
+## Library
 
 Met deze kleine library kun je het formaat aanpassen van het object, het object vervagen en het object laten draaien.
 
