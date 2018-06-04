@@ -13,11 +13,13 @@ De makkelijkste manier om deze library te gebruiken is om deze in een variabele 
 		rotate.init('.pijl', {});
 ```
 
-Als je je eigen selector wilt gebruiken moet je de default class aanpassen of een nieuwe selector aanmaken. Je kunt dan zoals hieronder beschreven de grootte van het object, het object laten vervagen en het object draaien.
+Als je je eigen selector wilt gebruiken moet je de default class aanpassen of een nieuwe selector aanmaken. 
+
+Je kunt dan zoals hieronder beschreven de grootte van het object, het object laten vervagen en het object draaien. Dit doe je je op de HTML pagina.
 ```javascript
-//Initialize the second object with a different selector and a gravity of only to so it goes...much...slower
-var rotate2 = new Rotate();
-rotate2.init('.rotate2', {choosedegrees: 90, chooseopacity:0.8}, choosescale: 2.0);
+//Wanneer je je eigen settings wilt gebruiken moet je binnen de init je eigen gekozen waardes invullen zoals hieronder beschreven.
+var rotate = new Rotate();
+rotate.init('.rotate', {choosedegrees: 90, chooseopacity:0.8}, choosescale: 2.0);
 ```
 
 ## Installatie
