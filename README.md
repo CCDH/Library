@@ -32,4 +32,4 @@ Javascript
 HTML
 
 ## Author
-Camiel de Hoogt - [GitHub](https://github.com/CCDH)
+<b>Camiel de Hoogt</b> - [GitHub](https://github.com/CCDH)
