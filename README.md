@@ -3,7 +3,7 @@
 Met deze kleine library kun je het formaat aanpassen van het object, het object vervagen en het object laten draaien.
 
 ## Demo
-https://github.com/CCDH/Library
+https://github.com/CCDH
 
 ## Code voorbeeld
 
