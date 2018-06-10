@@ -2,6 +2,9 @@
 
 Met deze kleine library kun je het formaat aanpassen van het object, het object vervagen en het object laten draaien.
 
+## Demo
+https://github.com/CCDH/Library
+
 ## Code voorbeeld
 
 De makkelijkste manier om deze library te gebruiken is om deze in een variabele te zetten en deze een class toe te wijzen en de init functie erop toe te passen. Hij zal dan deze class gebruiken om de functie op toe te passen. In dit geval heet deze variabele "rotate".
