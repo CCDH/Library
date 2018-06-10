@@ -30,7 +30,6 @@ Download de library.js file en stop deze in de head van je page om hem op te roe
 
 Javascript
 HTML
-CSS
 
 ## Author
-Camiel de Hoogt - (https://github.com/CCDH)
+Camiel de Hoogt - [GitHub](https://github.com/CCDH)
