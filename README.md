@@ -18,7 +18,7 @@ De makkelijkste manier om deze library te gebruiken is om deze in een variabele 
 
 Als je je eigen selector wilt gebruiken moet je de default class aanpassen of een nieuwe selector aanmaken. 
 
-Je kunt dan zoals hieronder beschreven de grootte van het object, het object laten vervagen en het object draaien. Dit doe je je op de HTML pagina.
+Je kunt dan zoals hieronder beschreven de grootte van het object, het object laten vervagen en het object draaien. Dit doe je binnen de HTML pagina.
 ```javascript
 //Wanneer je je eigen settings wilt gebruiken moet je binnen de init je eigen gekozen waardes invullen zoals hieronder beschreven.
 var rotate = new Rotate();
